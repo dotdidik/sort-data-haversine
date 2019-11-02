@@ -1,0 +1,14 @@
+{
+  "name": "sort-data-haversine",
+  "version": "1.0.0",
+  "description": "Sort data array using haversine formula for javascript",
+  "main": "arraySort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "didot",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.get": "^4.4.2"
+  }
+}
